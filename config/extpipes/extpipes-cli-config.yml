@@ -45,7 +45,7 @@ rawdbs:
                 - source: <source type>
                   schedule: On trigger
                   contacts:
-                      - name: <Contact name>
-                        email: <Contact e-mail>
-                        role: <Contact role>
+                      - name: noufalqa
+                        email: nouf.alqahtani.a@outlook.com
+                        role: bootcamp cdf 25
                         send-notification: false
